@@ -1,9 +1,8 @@
-<!-- 타이틀 부분 - 원하는 타이틀 이미지 GIF/PNG 로 교체하세요! -->
-<!-- 예시: <img src="YOUR_TITLE_IMAGE_URL" /> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d2d2d&height=200&text=Welcome%20to%20Miri's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img width="1500" height="300" alt="Image" src="https://github.com/user-attachments/assets/e2956414-d441-4b58-99c5-2f044507b299" />
 </div>
 <br>
+
 
 <br>
 
@@ -34,7 +33,6 @@
 -->
 
 <br>
-<br>
 
 <!-- Currently Learning -->
 <h3 align="center">📖 Currently Learning 📖</h3>
@@ -46,7 +44,6 @@
 
 <!-- 새로운 거 배우면 위에 img 태그 하나 복붙해서 추가하면 돼요! -->
 
-<br>
 <br>
 
 <!-- Tools -->
@@ -66,7 +63,6 @@
 </div>
 
 <br>
-<br>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
@@ -81,9 +77,12 @@
 </div>
 
 <br>
-<br>
 
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:003300,100:000000&height=200&section=footer&reversal=true&fontColor=00ff88&stroke=00ff88&strokeWidth=1" />
 </div>
