@@ -10,8 +10,7 @@
 
 ## About
 
-이화여자대학교 컴퓨터공학과에 재학 중입니다.
-운영체제, 알고리즘, 암호학, 데이터베이스, 컴퓨터 네트워크 등을 공부하며 전공 지식을 쌓고 있고, 배운 내용을 직접 만들어보며 익히는 걸 좋아해서 사이드 프로젝트로 게임 개발과 학습 자동화 도구를 만들고 있습니다.
+배운 내용을 직접 만들어보며 익히는 걸 좋아해서, 사이드 프로젝트로 게임 개발과 학습 자동화 도구를 만들고 있습니다.
 
 <br>
 
@@ -40,8 +39,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mirikim404&show_icons=true&theme=dark_dimmed&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=dark_dimmed&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mirikim404&show_icons=true&theme=dark_dimmed&hide_border=true&cache_seconds=1" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=1" />
 </div>
 
 <div align="center">
