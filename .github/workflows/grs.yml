@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=mirikim404&show_icons=true&theme=dark&hide_border=true&bg_color=00000000
+          options: username=mirikim404&show_icons=true&hide_border=true&bg_color=00000000&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=8B949E
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=mirikim404&layout=compact&theme=dark&hide_border=true&bg_color=00000000
+          options: username=mirikim404&layout=compact&hide_border=true&bg_color=00000000&title_color=E6EDF3&text_color=8B949E
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
