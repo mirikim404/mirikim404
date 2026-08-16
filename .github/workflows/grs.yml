@@ -29,11 +29,17 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git pull --rebase origin main
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "Update README cards"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main && break
+            git rebase --abort
+            sleep 3
+          done
+          git push origin HEAD:main
