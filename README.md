@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="1500" height="300" alt="Header" src="header.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img width="1500" height="300" alt="Header" src="header-light.svg">
+</picture>
 
 </div>
 
@@ -38,12 +42,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mirikim404&show_icons=true&theme=graywhite&hide_border=true&icon_color=555555&text_color=333333&title_color=000000" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=graywhite&hide_border=true&text_color=333333&title_color=000000" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mirikim404&show_icons=true&theme=dark_dimmed&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=dark_dimmed&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mirikim404&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC&ring=555555&fire=555555&currStreakLabel=333333" />
+  <img src="https://streak-stats.demolab.com?user=mirikim404&theme=dark&hide_border=true&background=00000000" />
 </div>
 
 <br>
