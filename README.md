@@ -34,7 +34,6 @@
 
 <div align="center">
   <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/top-langs.svg" />
 </div>
 
 <br>
