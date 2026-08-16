@@ -1,6 +1,6 @@
 <svg width="1500" height="300" viewBox="0 0 1500 300" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="1500" height="300" fill="#161B22"/>
-<line x1="120" y1="248" x2="1380" y2="248" stroke="#3A3F47" stroke-width="1"/>
-<text x="120" y="150" font-family="Georgia, 'Noto Serif KR', serif" font-size="64" font-weight="400" fill="#E8E4DC">Miri's GitHub</text>
-<text x="120" y="200" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#9C9689" letter-spacing="1">Computer Science Student &#183; Ewha Womans University</text>
+<rect x="0" y="0" width="1500" height="300" fill="#212830"/>
+<line x1="120" y1="248" x2="1380" y2="248" stroke="#3D444D" stroke-width="1"/>
+<text x="120" y="150" font-family="Georgia, 'Noto Serif KR', serif" font-size="64" font-weight="400" fill="#E6EDF3">Miri's GitHub</text>
+<text x="120" y="200" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#8B949E" letter-spacing="1">Computer Science Student &#183; Ewha Womans University</text>
 </svg>
