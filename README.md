@@ -1,82 +1,66 @@
 <div align="center">
-  <img width="1500" height="300" alt="Image" src="https://github.com/user-attachments/assets/e2956414-d441-4b58-99c5-2f044507b299" />
-</div>
-<br>
 
+<img width="1500" height="300" alt="Header" src="https://github.com/user-attachments/assets/e2956414-d441-4b58-99c5-2f044507b299" />
 
-<br>
-
-<!-- Tech Stack -->
-<h3 align="center">Tech Stack</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-</div>
+## About
 
+Computer Science 전공 대학생입니다. 사이드 프로젝트로 게임 개발과 학습 자동화 도구를 만들고 있습니다.
 
-<!--
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-</div>
--->
 
-<br><br>
-
-<!-- Currently Learning -->
-<h3 align="center">Currently Learning</h3>
+## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-</div>
-
-
-<br><br>
-
-<!-- Tools -->
-<h3 align="center">Tools</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&theme=dark&perline=6" />
 </div>
 
 <br>
 
+## Currently Learning
+
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark&perline=6" />
 </div>
 
-<br><br>
+<br>
 
-<!-- Contact -->
-<h3 align="center">Contact</h3>
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=graywhite&hide_border=true&icon_color=555555&text_color=333333&title_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=graywhite&hide_border=true&text_color=333333&title_color=000000" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mirikim404&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC&ring=555555&fire=555555&currStreakLabel=333333" />
+</div>
+
+<br>
+
+## Algorithm
+
+<div align="center">
+
+_추후 업데이트 예정 (프로그래머스 / LeetCode)_
+
+</div>
+
+<br>
+
+## Contact
 
 <div align="center">
   <a href="https://ballistic-leo-68b.notion.site/326d26b1516680928a32fe6fcb9ee219?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
-  </a>
+    <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://mirikim404.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-333333?style=flat-square&logo=tistory&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:mirikim8989@gmail.com">
-    <img src="https://img.shields.io/badge/mirikim8989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<br>
-
-
-
-
