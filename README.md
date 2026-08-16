@@ -39,8 +39,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mirikim404&show_icons=true&theme=dark_dimmed&hide_border=true&cache_seconds=1" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&cache_seconds=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirikim404&layout=compact&theme=dark&hide_border=true&bg_color=00000000&cache_seconds=1" />
 </div>
 
 <div align="center">
@@ -62,13 +62,13 @@ _추후 업데이트 예정 (프로그래머스 / LeetCode)_
 ## Contact
 
 <div align="center">
-  <a href="https://ballistic-leo-68b.notion.site/326d26b1516680928a32fe6fcb9ee219?source=copy_link" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white" />
+  <a href="https://ballistic-leo-68b.notion.site/326d26b1516680928a32fe6fcb9ee219?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white" border="0" alt="Notion" />
   </a>&nbsp;
-  <a href="https://mirikim404.tistory.com/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Tistory-333333?style=flat-square&logo=tistory&logoColor=white" />
+  <a href="https://mirikim404.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-333333?style=flat-square&logo=tistory&logoColor=white" border="0" alt="Tistory" />
   </a>&nbsp;
-  <a href="mailto:mirikim8989@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:mirikim8989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white" border="0" alt="Gmail" />
   </a>
 </div>
