@@ -3,4 +3,6 @@
 <line x1="20" y1="180" x2="1480" y2="180" stroke="#DDD8D0" stroke-width="1"/>
 <text x="20" y="115" font-family="Georgia, 'Noto Serif KR', serif" font-size="72" font-weight="400" fill="#3A3A38">Miri's GitHub</text>
 <text x="20" y="150" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#8A8478" letter-spacing="1">Computer Science Student &#183; Ewha Womans University</text>
+<text x="20" y="222" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9FA6AD" style="fill:rgb(159, 166, 173);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;text-anchor:start;dominant-baseline:auto">배운 내용을 직접 만들어보며 익히는 걸 좋아해서,</text>
+<text x="20" y="252" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9FA6AD" style="fill:rgb(159, 166, 173);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;text-anchor:start;dominant-baseline:auto">Java 기반 백엔드 개발과 팀 프로젝트로 실력을 쌓고 있습니다.</text>
 </svg>
