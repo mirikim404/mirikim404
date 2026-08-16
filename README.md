@@ -43,10 +43,6 @@
   <img height="165" src="./profile/top-langs.svg" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mirikim404&theme=dark&hide_border=true&background=00000000" />
-</div>
-
 <br>
 
 ## Algorithm
