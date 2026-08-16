@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="header-light-v2.svg">
-  <img width="1500" height="300" alt="Header" src="header-light-v2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light-v3.svg">
+  <img width="1500" height="220" alt="Header" src="header-light-v3.svg">
 </picture>
 
 </div>
