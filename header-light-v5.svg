@@ -1,8 +1,10 @@
-<svg width="1500" height="220" viewBox="0 0 1500 220" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="1500" height="220" fill="#F7F5F2"/>
+<svg width="100%" viewBox="0 0 1510 310" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Miri's GitHub 헤더 배너 (라이트 버전)</title>
+<desc>GitHub 라이트모드 배경색과 동일한 배경에 제목, 소속, 실제 개발 경향을 담은 헤더</desc>
+<rect x="0" y="0" width="1500" height="300" fill="#F7F5F2"/>
 <line x1="20" y1="180" x2="1480" y2="180" stroke="#DDD8D0" stroke-width="1"/>
 <text x="20" y="115" font-family="Georgia, 'Noto Serif KR', serif" font-size="72" font-weight="400" fill="#3A3A38">Miri's GitHub</text>
 <text x="20" y="150" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#8A8478" letter-spacing="1">Computer Science Student &#183; Ewha Womans University</text>
-<text x="20" y="222" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9FA6AD" style="fill:rgb(159, 166, 173);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;text-anchor:start;dominant-baseline:auto">배운 내용을 직접 만들어보며 익히는 걸 좋아해서,</text>
-<text x="20" y="252" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9FA6AD" style="fill:rgb(159, 166, 173);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;text-anchor:start;dominant-baseline:auto">Java 기반 백엔드 개발과 팀 프로젝트로 실력을 쌓고 있습니다.</text>
+<text x="20" y="222" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#6B6559">배운 내용을 직접 만들어보며 익히는 걸 좋아해서,</text>
+<text x="20" y="252" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#6B6559">Java 기반 백엔드 개발과 팀 프로젝트로 실력을 쌓고 있습니다.</text>
 </svg>
