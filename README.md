@@ -30,10 +30,10 @@
 
 ## GitHub Stats
 <div align="center">
-  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact&theme=transparent" />
 </div>
 <br>
-
 ## Algorithm
 <div align="center">
 _추후 업데이트 예정 (프로그래머스 / LeetCode)_
