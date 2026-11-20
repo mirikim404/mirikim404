@@ -33,5 +33,5 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/) -->
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=mirikim404&utm_content=line">
-  <img src="https://render.gitanimals.org/lines/mirikim404?pet-id=911511641028779001" width="400" height="120" />
+  <img src="https://render.gitanimals.org/lines/mirikim404?pet-id=911511641028779001" width="400" height="200" />
 </a>
