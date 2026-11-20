@@ -1,48 +1,37 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="header-light-v5.svg">
-  <img width="1500" height="220" alt="Header" src="header-light-v5.svg">
-</picture>
-</div>
+# 김미리 *Kim Miri*
 
-## Tech Stack
-<div align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-4B7BAF?style=flat-square&logo=python&logoColor=white" /></a>&nbsp;
-  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-6E6E6E?style=flat-square&logo=c&logoColor=white" /></a>&nbsp;
-  <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-B07D5C?style=flat-square&logo=openjdk&logoColor=white" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-C97B5F?style=flat-square&logo=html5&logoColor=white" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-5C8FB0?style=flat-square&logo=css3&logoColor=white" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-C9A227?style=flat-square&logo=javascript&logoColor=white" /></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-5C8FB0?style=flat-square&logo=mysql&logoColor=white" /></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4B7BAF?style=flat-square&logo=postgresql&logoColor=white" /></a>
-</div>
-<br>
+- Backend Developer ☕
 
-## Tool
-<div align="center">
-  <a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-8FA85C?style=flat-square&logo=swagger&logoColor=white" /></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-6E9FC9?style=flat-square&logo=docker&logoColor=white" /></a>&nbsp;
-  <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-6E6E6E?style=flat-square&logo=render&logoColor=white" /></a>&nbsp;
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-B07D5C?style=flat-square&logo=figma&logoColor=white" /></a>
-</div>
-<br>
+<a href="https://mirikim404-log.vercel.app/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
-## GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirikim404&theme=radical" />
-</div>
-<br>
+### Experience
 
-## Algorithm
-<div align="center">
-_추후 업데이트 예정 (프로그래머스 / LeetCode)_
-</div>
-<br>
+- IT 연합동아리 UMC 이화 11기 Web `(26.09 ~ ing)`
+- Y-AI 메이커톤 2026 참가 `(26.11)`
+- OUTTA AI 부트캠프 5기 `(26.07 ~ 26.08)`
+- 🏅 교내 AI 활용 학습법 공모전 장려상 `(26.07)`
+- 이화여대 컴퓨터 동아리 ECC `(25.03 ~ 26.08)`
 
-## Contact
-<div align="center">
-  <a href="https://ballistic-leo-68b.notion.site/326d26b1516680928a32fe6fcb9ee219?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" /></a>
-  <a href="https://mirikim404.tistory.com/"><img src="https://img.shields.io/badge/Tistory-C9776B?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
-  <a href="mailto:mirikim8989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D64545?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</div>
+### Projects
+
+- [VIDI](https://github.com/EWHA-VIDI) - 댓글 속에 숨은 조직적 바이럴을 찾아내는 탐지 서비스 `(26.09 ~ ing)`
+- [ZeroPick](https://github.com/ecc2team/Backend) - 제로·저당 식품을 성분까지 한눈에 비교하는 정보 플랫폼 `(26.07 ~ 26.08)`
+- [nanoGPT-Korean](https://github.com/mirikim404/nanogpt-korean-experiment) - 트랜스포머를 직접 조립해 한국어로 학습시킨 GPT `(26.08)`
+- [StudyLoop](https://github.com/mirikim404/study-loop) - 오늘 할 일이 그대로 학습노트가 되는 공부 루틴 웹앱 `(26.07)`
+- [My Trip Router](https://github.com/mirikim404/my-trip-router) - 가고 싶은 곳만 담으면 최적 동선을 그려주는 여행 플래너 `(26.09)`
+
+### Interest
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/) -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/mirikim404?pet-id=911500896517971417" width="600" height="120" />
+</a>
