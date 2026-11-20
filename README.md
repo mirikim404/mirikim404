@@ -32,6 +32,6 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/) -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mirikim404?pet-id=911500896517971417" width="600" height="120" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=mirikim404&utm_content=line">
+  <img src="https://render.gitanimals.org/lines/mirikim404?pet-id=911511641028779001" width="400" height="80" />
 </a>
