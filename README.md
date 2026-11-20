@@ -1,7 +1,5 @@
 # 김미리 *Kim Miri*
 
-- Backend Developer ☕
-
 <a href="https://mirikim404-log.vercel.app/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
 ### Experience
